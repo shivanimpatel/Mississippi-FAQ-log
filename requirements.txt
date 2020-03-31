@@ -1,0 +1,4 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+marshmallow==3.5.1
+soupsieve==2.0
